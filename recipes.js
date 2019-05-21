@@ -1,4 +1,4 @@
-recipes = [
+window.recipes = [
   {
     title: "Roasted Chickpeas",
     blurb: "This recipe is so simple, but really delicious.  Use these as a topping for noodles, or simply have them on their own as a snack.",
