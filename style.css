@@ -28,7 +28,7 @@ img {
 
 .subheading {
   text-align: center;
-
+  font-size: 30px;
 }
 
 .btn {
@@ -41,4 +41,11 @@ img {
   padding: 0.5em 1em;
   color: #ffffff;
   background-color: #FF8C00;
+}
+
+.blurb {
+  text-align: center;
+  font-style: italic;
+  font-weight:bold;
+  font-size: 24px;
 }
